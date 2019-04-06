@@ -10,4 +10,4 @@ eureka:
     register-with-eureka: false
     fetch-registry: false
   datacenter: amsterdam
-  environment: test
+  environment: development
